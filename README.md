@@ -1,4 +1,4 @@
-# basit-discord-stealer-fudlu
+
 
 # Proje Hakkında
 Kendi tarafımdan yapmış olduğum belki ihtiyacınıza yarar 72 antivürsten 2 si tespit buluyor. Basit bir discord bilgilerini çeken kod.
