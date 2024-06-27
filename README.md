@@ -11,12 +11,12 @@ Kendi tarafımdan yapmış olduğum belki ihtiyacınıza yarar 72 antivürsten 2
 </html>
 
 # Nasıl kurulur ?
-1- dosyada powershell'i yönetici olarak çalıştırın.
-2- npm i yazarak modülleri indirin.
-3- terminale npm run obfuscate yazın
-4- ilk bunu yapıştırın terminale "Set-ExecutionPolicy RemoteSigned -Scope CurrentUser"
-5- Sonrada bunu "pkg fetch-info-obfuscated.js --targets node14-win --output fetch-info.exe"
-6- exe dosyamız oluştu iyi kullanımlar.
+- dosyada powershell'i yönetici olarak çalıştırın.
+- npm i yazarak modülleri indirin.
+- terminale npm run obfuscate yazın
+- ilk bunu yapıştırın terminale "Set-ExecutionPolicy RemoteSigned -Scope CurrentUser"
+- Sonrada bunu "pkg fetch-info-obfuscated.js --targets node14-win --output fetch-info.exe"
+- exe dosyamız oluştu iyi kullanımlar.
 
 # Önemli
 Bu proje sadece eğitim amaçlı yapılmıştır kötü veya yasadışı işler için yapılmamıştır. Herşey sizin sorumluluğunuzdadır.
