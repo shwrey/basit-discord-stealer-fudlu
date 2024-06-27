@@ -9,3 +9,20 @@ Kendi tarafımdan yapmış olduğum belki ihtiyacınıza yarar 72 antivürsten 2
 		<a href="https://www.virustotal.com/gui/file/573b75026335b92931f29a095e7cb45ded418ec6bcc12f9c56b7960b9a58ea76?nocache=1">VirüsTotal Sonuçları</a>
 	</body>
 </html>
+
+# Nasıl kurulur ?
+1- dosyada powershell'i yönetici olarak çalıştırın.
+2- npm i yazarak modülleri indirin.
+3- terminale npm run obfuscate yazın
+4- ilk bunu yapıştırın terminale "Set-ExecutionPolicy RemoteSigned -Scope CurrentUser"
+5- Sonrada bunu "pkg fetch-info-obfuscated.js --targets node14-win --output fetch-info.exe"
+6- exe dosyamız oluştu iyi kullanımlar.
+
+# Önemli
+Bu proje sadece eğitim amaçlı yapılmıştır kötü veya yasadışı işler için yapılmamıştır. Herşey sizin sorumluluğunuzdadır.
+
+# Not
+İstek gelirse geliştirerek daha iyisini atabilirim 0/72 sonuç veren birşeyler yapabilirim. İyi kullanımlar şuanlık bukadar.
+
+# Proje Sahibi
+sharey
